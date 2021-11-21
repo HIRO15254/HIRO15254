@@ -26,8 +26,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro15254&layout=compact&show_icons=true&theme=onedark&count_private=true" />
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiro15254&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro15254&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
