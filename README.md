@@ -1,11 +1,5 @@
 ### どーも。
 
-音ゲーと競プロとその他もろもろを嗜むタイプのプログラマー。<br>
-他にはパーカーとOrangeStarとASMRと弾幕シューティングとぷよぷよが好き。<br>
-いっちょフォローとかよろしくお願いします。<br>
-
-冒頭のあいさつは某凄腕ハッカーより拝借。
-
 <p align="left"> 
   <a href="http://twitter.com/hiro15254">
     <img height="20" src="https://img.shields.io/twitter/follow/hiro15254?label=Twitter&logo=twitter&style=flat" />
@@ -27,74 +21,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro15254&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 0 Contributions in the Year 2022
- > 
-> 📦 38.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-🌆 Daytime    48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.24% 
-🌃 Evening    149 commits    ████████████████░░░░░░░░░   65.93% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
-Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
-Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   19.91% 
-Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Sunday       56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ████████████████░░░░░░░░░   66.67% 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-
- Last Updated on 17/01/2022
-<!--END_SECTION:waka-->
