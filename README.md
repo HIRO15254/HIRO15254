@@ -23,4 +23,75 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro15254&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2016%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 91 Contributions in the Year 2022
+ > 
+> 📦 483.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
+🌆 Daytime    29 commits     ██████░░░░░░░░░░░░░░░░░░░   25.66% 
+🌃 Evening    64 commits     ██████████████░░░░░░░░░░░   56.64% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Wednesday    28 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78% 
+Thursday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+Friday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
+Saturday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
+Sunday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ██████████████░░░░░░░░░░░   57.14% 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+
+ Last Updated on 13/05/2022 05:06:58 UTC
 <!--END_SECTION:waka-->
