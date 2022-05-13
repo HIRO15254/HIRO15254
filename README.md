@@ -23,15 +23,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro15254&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 91 Contributions in the Year 2022
+> 🏆 93 Contributions in the Year 2022
  > 
-> 📦 483.6 kB Used in GitHub's Storage 
+> 📦 483.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,16 +68,19 @@ Sunday       13 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 32 mins        █████████████████░░░░░░░░   68.29% 
+JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38% 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 15 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ZagaQ                    2 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,5 +96,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 05:06:58 UTC
+ Last Updated on 13/05/2022 18:47:35 UTC
 <!--END_SECTION:waka-->
