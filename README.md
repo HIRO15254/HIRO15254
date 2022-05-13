@@ -21,3 +21,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro15254&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
