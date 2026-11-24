@@ -1,17 +1,3 @@
-<div align="center">
-
-# どーも[。](https://www.nijisanji.jp/talents/l/kai-mayuzumi)👋
-
-趣味（とちょっとお仕事）でプログラムを嗜んでいる人。競技プログラミングもする。<br>
-その他にも競技クイズをしたりポーカーをしたり音ゲーをしたりしている。<br>
-趣味の話は大体 [X (Twitter)で](https://twitter.com/HIRO15254)[。](https://twitter.com/mayuzumi_X)
-
-どーぞよろしく。
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Main Languages
